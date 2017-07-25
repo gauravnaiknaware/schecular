@@ -1,7 +1,7 @@
 {
   "name": "schedular",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "axios": "^0.16.2",
     "react": "^15.5.4",
